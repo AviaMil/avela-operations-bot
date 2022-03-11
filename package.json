@@ -1,0 +1,17 @@
+{
+  "name": "mil-bot",
+  "version": "1.0.0",
+  "description": "A bot made by migue802#6690's comission for Mil#2020",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "migue802#6690",
+  "dependencies": {
+    "axios": "0.24.0",
+    "date-and-time": "2.0.1",
+    "discord.js": "13.3.1",
+    "mongoose": "6.0.13",
+    "trello": "0.11.0"
+  }
+}
